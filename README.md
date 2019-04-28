@@ -1,11 +1,6 @@
 # AuthService
 
-This application was generated using Coolybot 5.8.2, you can find documentation and help at [https://www.coolybot.tech/documentation-archive/v5.8.2](https://www.coolybot.tech/documentation-archive/v5.8.2).
-
-This is a "uaa" application intended to be part of a microservice architecture, please refer to the [Doing microservices with Coolybot][] page of the documentation for more information.
-
-This is also a Coolybot User Account and Authentication (UAA) Server, refer to [Using UAA for Microservice Security][] for details on how to secure Coolybot microservices with OAuth2.
-This application is configured for Service Discovery and Configuration with the Coolybot-Registry. On launch, it will refuse to start if it is not able to connect to the Coolybot-Registry at [http://localhost:8761](http://localhost:8761). For more information, read our documentation on [Service Discovery and Configuration with the Coolybot-Registry][].
+Coolybot Crawler Auth Services
 
 ## Development
 
@@ -75,17 +70,3 @@ Then run:
 For more information refer to [Using Docker and Docker-Compose][], this page also contains information on the docker-compose sub-generator (`coolybot docker-compose`), which is able to generate docker configurations for one or several Coolybot applications.
 
 ## Continuous Integration (optional)
-
-To configure CI for your project, run the ci-cd sub-generator (`coolybot ci-cd`), this will let you generate configuration files for a number of Continuous Integration systems. Consult the [Setting up Continuous Integration][] page for more information.
-
-[coolybot homepage and latest documentation]: https://www.coolybot.tech
-[coolybot 5.8.2 archive]: https://www.coolybot.tech/documentation-archive/v5.8.2
-[doing microservices with coolybot]: https://www.coolybot.tech/documentation-archive/v5.8.2/microservices-architecture/
-
-[Using UAA for Microservice Security]: https://www.coolybot.tech/documentation-archive/v5.8.2/using-uaa/[Using Coolybot in development]: https://www.coolybot.tech/documentation-archive/v5.8.2/development/
-[Service Discovery and Configuration with the Coolybot-Registry]: https://www.coolybot.tech/documentation-archive/v5.8.2/microservices-architecture/#coolybot-registry
-[Using Docker and Docker-Compose]: https://www.coolybot.tech/documentation-archive/v5.8.2/docker-compose
-[Using Coolybot in production]: https://www.coolybot.tech/documentation-archive/v5.8.2/production/
-[Running tests page]: https://www.coolybot.tech/documentation-archive/v5.8.2/running-tests/
-[Code quality page]: https://www.coolybot.tech/documentation-archive/v5.8.2/code-quality/
-[Setting up Continuous Integration]: https://www.coolybot.tech/documentation-archive/v5.8.2/setting-up-ci/

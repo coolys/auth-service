@@ -2,7 +2,7 @@ package io.cooly.crawler.service;
 
 import io.cooly.crawler.domain.User;
 
-import io.github.coolybot.config.CoolybotProperties;
+import io.github.coolys.config.CoolybotProperties;
 
 import java.nio.charset.StandardCharsets;
 import java.util.Locale;

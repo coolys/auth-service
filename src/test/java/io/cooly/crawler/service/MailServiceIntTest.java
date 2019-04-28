@@ -3,7 +3,7 @@ import io.cooly.crawler.config.Constants;
 
 import io.cooly.crawler.AuthServiceApp;
 import io.cooly.crawler.domain.User;
-import io.github.coolybot.config.CoolybotProperties;
+import io.github.coolys.config.CoolybotProperties;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

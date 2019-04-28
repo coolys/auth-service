@@ -1,7 +1,7 @@
 package io.cooly.crawler.config;
 
 import io.cooly.crawler.security.AuthoritiesConstants;
-import io.github.coolybot.config.CoolybotProperties;
+import io.github.coolys.config.CoolybotProperties;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

@@ -13,7 +13,7 @@ import io.cooly.crawler.web.rest.errors.EmailAlreadyUsedException;
 import io.cooly.crawler.web.rest.errors.LoginAlreadyUsedException;
 import io.cooly.crawler.web.rest.util.HeaderUtil;
 import io.cooly.crawler.web.rest.util.PaginationUtil;
-import io.github.coolybot.web.util.ResponseUtil;
+import io.github.coolys.web.util.ResponseUtil;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

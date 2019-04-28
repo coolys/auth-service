@@ -3,7 +3,7 @@ package io.cooly.crawler.web.rest;
 import io.cooly.crawler.service.AuditEventService;
 import io.cooly.crawler.web.rest.util.PaginationUtil;
 
-import io.github.coolybot.web.util.ResponseUtil;
+import io.github.coolys.web.util.ResponseUtil;
 import org.springframework.boot.actuate.audit.AuditEvent;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
